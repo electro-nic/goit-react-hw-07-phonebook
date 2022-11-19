@@ -4,7 +4,6 @@ export const DivBox = styled.div`
 height: 100vh;
 display: flex;
 flex-direction: column;
-justify-content: center;
 align-items: flex-start;
 margin-left: auto;
 margin-right: auto;
